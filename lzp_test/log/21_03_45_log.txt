@@ -1,0 +1,610 @@
+2024-04-19 21:04:01,290 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: /mnt/cephfs/home/wangqianyue/beg
+2024-04-19 21:04:02,302 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device: cuda
+2024-04-19 21:04:06,492 - root - INFO - Generating rouge outline Exposition, detail outline 1:
+2024-04-19 21:04:06,492 - root - INFO - Chapter Exposition:
+2024-04-19 21:04:06,492 - root - INFO - Title: Diane Chambers, a beautiful woman in her early thirties, discovers that her husband, Mark Chambers, has been cheating on her with Karen Johnson, a blonde woman in her early thirties who is also married and has two young children.
+2024-04-19 21:04:06,492 - root - INFO - Content: Diane Chambers, a beautiful woman in her early thirties, discovers that her husband, Mark Chambers, has been cheating on her with Karen Johnson, a blonde woman in her early thirties who is also married and has two young children.
+
+2024-04-19 21:04:13,888 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: /mnt/cephfs/home/wangqianyue/beg
+2024-04-19 21:04:14,676 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device: cuda
+2024-04-19 21:04:53,284 - root - INFO - ==================================================
+2024-04-19 21:04:53,285 - root - INFO - outline:Based on the given rough storyline, historical content, and previous detailed outline, the following is a detailed chapter outline for the 0th fine chapter outline:
+```json
+{
+  "plot": "Diane discovers her husband's affair and decides to take revenge",
+  "key_events": [
+    "Diane finds out about Mark's affair with Karen",
+    "Diane feels hurt and betrayed by Mark's actions",
+    "Diane decides to take revenge on Mark for cheating on her",
+    "Diane starts planning her revenge and considering her options"
+  ]
+}
+```
+
+This chapter outline describes the beginning of the story, where Diane discovers her husband's affair and decides to take revenge. The key events include Diane finding out about the affair, feeling hurt and betrayed, and making the decision to take revenge. The chapter outline also indicates that Diane is still in the planning stages of her revenge and has not yet taken any actions.
+2024-04-19 21:04:53,285 - root - INFO - ==================================================
+2024-04-19 21:04:56,643 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: /mnt/cephfs/home/wangqianyue/beg
+2024-04-19 21:04:57,412 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device: cuda
+2024-04-19 21:05:39,006 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: /mnt/cephfs/home/wangqianyue/beg
+2024-04-19 21:05:39,958 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device: cuda
+2024-04-19 21:05:41,238 - root - INFO - **************************************************
+2024-04-19 21:05:41,238 - root - INFO - content:Sure, I understand the task at hand. Here is the generated chapter based on the provided detailed outline and historical content of the novel:
+As the sun set on another day, Diane Chambers sat alone in her living room, staring blankly at the wall. Her world had been turned upside down when she discovered that her husband, Mark, had been cheating on her with another woman.
+Diane felt like her heart had been ripped out of her chest. She had been a loyal and loving wife, sacrificing her own career to raise their children and support her husband's. And now, this.
+As the reality of the situation set in, Diane felt a wave of anger wash over her. She couldn't believe that Mark had betrayed her like this. But she knew that she couldn't just sit back and do nothing. She had to take action.
+With a steely determination in her eyes, Diane decided that she would take revenge on her husband for cheating on her. She started planning her revenge, considering all of her options and weighing the pros and cons of each.
+As the night wore on, Diane became more and more focused on her mission. She would make Mark pay for what he had done to her. And she would do it in a way that would leave him reeling.
+The next day, Diane put her plan into action. She knew that she had to be careful, but she was confident that she could pull it off. And as she watched Mark squirm under her accusations, she knew that she had made the right decision.
+Diane had finally taken control of her life, and she was determined to make the most of it. She would never let anyone treat her like that again. And she would make sure that Mark paid for what he had done to her.
+2024-04-19 21:05:41,239 - root - INFO - **************************************************
+2024-04-19 21:05:41,239 - root - INFO - 2
+2024-04-19 21:05:41,239 - root - INFO - Generating rouge outline Exposition, detail outline 2:
+2024-04-19 21:05:41,239 - root - INFO - Chapter Exposition:
+2024-04-19 21:05:41,239 - root - INFO - Title: Diane Chambers, a beautiful woman in her early thirties, discovers that her husband, Mark Chambers, has been cheating on her with Karen Johnson, a blonde woman in her early thirties who is also married and has two young children.
+2024-04-19 21:05:41,239 - root - INFO - Content: Diane Chambers, a beautiful woman in her early thirties, discovers that her husband, Mark Chambers, has been cheating on her with Karen Johnson, a blonde woman in her early thirties who is also married and has two young children.
+
+2024-04-19 21:05:48,469 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: /mnt/cephfs/home/wangqianyue/beg
+2024-04-19 21:05:49,188 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device: cuda
+2024-04-19 21:08:17,257 - root - INFO - Exception when chat to model:'Response' object has no attribute 'request_id'
+2024-04-19 21:08:27,531 - root - INFO - ==================================================
+2024-04-19 21:08:27,532 - root - INFO - outline:Based on the given rough storyline, historical content, and previous detailed outline, the following is a detailed chapter outline for the 1st fine chapter outline:
+```json
+{
+  "plot": "Diane begins planning her revenge on Mark",
+  "key_events": [
+    "Diane researches ways to get revenge on Mark",
+    "Diane considers different options for revenge",
+    "Diane decides on a plan to publicly humiliate Mark",
+    "Diane starts putting her plan into action"
+  ]
+}
+```
+
+This chapter outline describes the next stage of the story, where Diane begins planning her revenge on Mark. The key events include Diane researching ways to get revenge, considering different options, deciding on a plan to publicly humiliate Mark, and starting to put her plan into action. The chapter outline indicates that Diane is taking concrete steps towards her revenge and is actively working to make it happen.
+2024-04-19 21:08:27,532 - root - INFO - ==================================================
+2024-04-19 21:08:31,191 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: /mnt/cephfs/home/wangqianyue/beg
+2024-04-19 21:08:31,909 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device: cuda
+2024-04-19 21:10:42,376 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: /mnt/cephfs/home/wangqianyue/beg
+2024-04-19 21:10:43,145 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device: cuda
+2024-04-19 21:10:44,210 - root - INFO - **************************************************
+2024-04-19 21:10:44,210 - root - INFO - content:As Diane Chambers sat in her living room, her mind raced with thoughts of revenge against her unfaithful husband, Mark. She couldn't believe that he had been cheating on her with another woman, and the anger she felt was like a fire burning inside of her.
+Determined to make Mark pay for what he had done, Diane began to research ways to get revenge. She spent hours online, reading articles and watching videos on how to humiliate someone in public. She considered different options, from spreading rumors to spreading damaging information online, but none of them seemed quite right.
+Finally, Diane settled on a plan. She would publicly humiliate Mark in front of all of their friends and family, making sure that everyone knew what he had done. She started putting her plan into action, carefully crafting a speech that would expose Mark's infidelity and make him the laughingstock of their social circle.
+As the day of the gathering approached, Diane felt a mix of fear and excitement. She knew that what she was doing was risky, but she also knew that it was the only way to make Mark pay for what he had done. She took a deep breath and stepped up to the microphone, ready to deliver her speech and make Mark pay for his betrayal.
+2024-04-19 21:10:44,210 - root - INFO - **************************************************
+2024-04-19 21:10:44,210 - root - INFO - 3
+2024-04-19 21:10:44,210 - root - INFO - Generating rouge outline Exposition, detail outline 3:
+2024-04-19 21:10:44,210 - root - INFO - Chapter Exposition:
+2024-04-19 21:10:44,211 - root - INFO - Title: Diane Chambers, a beautiful woman in her early thirties, discovers that her husband, Mark Chambers, has been cheating on her with Karen Johnson, a blonde woman in her early thirties who is also married and has two young children.
+2024-04-19 21:10:44,211 - root - INFO - Content: Diane Chambers, a beautiful woman in her early thirties, discovers that her husband, Mark Chambers, has been cheating on her with Karen Johnson, a blonde woman in her early thirties who is also married and has two young children.
+
+2024-04-19 21:10:49,984 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: /mnt/cephfs/home/wangqianyue/beg
+2024-04-19 21:10:50,776 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device: cuda
+2024-04-19 21:18:01,870 - root - INFO - Exception when chat to model:'Response' object has no attribute 'request_id'
+2024-04-19 21:18:12,772 - root - INFO - ==================================================
+2024-04-19 21:18:12,772 - root - INFO - outline:Based on the given rough storyline, historical content, and previous detailed outline, the following is a detailed chapter outline for the 2th fine chapter outline:
+```json
+{
+  "plot": "Diane publicly humiliates Mark and exposes his affair",
+  "key_events": [
+    "Diane executes her plan to publicly humiliate Mark",
+    "Diane exposes Mark's affair with Karen to their social circle",
+    "Mark becomes the laughingstock of their social circle",
+    "Diane feels a sense of satisfaction and closure"
+  ]
+}
+```
+
+This chapter outline describes the culmination of Diane's revenge plan, where she publicly humiliates Mark and exposes his affair with Karen to their social circle. The key events include Diane executing her plan, exposing the affair, and Mark becoming the laughingstock of their social circle. The chapter outline also indicates that Diane feels a sense of satisfaction and closure after carrying out her revenge.
+2024-04-19 21:18:12,772 - root - INFO - ==================================================
+2024-04-19 21:18:15,633 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: /mnt/cephfs/home/wangqianyue/beg
+2024-04-19 21:18:16,324 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device: cuda
+2024-04-19 21:24:06,611 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: /mnt/cephfs/home/wangqianyue/beg
+2024-04-19 21:24:07,366 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device: cuda
+2024-04-19 21:24:08,729 - root - INFO - **************************************************
+2024-04-19 21:24:08,729 - root - INFO - content:Chapter 2: The Humiliation
+Diane Chambers sat in the corner of the room, watching as Mark mingled with their friends and acquaintances. She couldn't believe that he had the nerve to show his face after what he had done. But Diane had a plan, and she was about to execute it.
+As the party reached its peak, Diane stood up and cleared her throat. All eyes turned to her, and she could see the confusion and curiosity etched on their faces. "I have something to say," she announced, her voice steady and strong.
+"Diane, what is it?" Mark asked, a hint of concern in his voice.
+Diane took a deep breath and looked at him. "Mark, you have been cheating on me," she said, her voice barely above a whisper.
+The room fell silent, and Diane could see the shock and disbelief on the faces of their friends. Mark's face turned white, and he stumbled backward as if he had been hit.
+"I know about Karen," Diane continued, her voice growing stronger with each word. "I know about the hotel rooms and the late-night phone calls. And I want everyone here to know about it too."
+As Diane spoke, she could feel a sense of satisfaction and closure wash over her. She had been humiliated and betrayed by Mark, but now she was turning the tables.
+As the news of Mark's affair spread through the room, he became the laughingstock of their social circle. Diane watched as he tried to挽回
+2024-04-19 21:24:08,729 - root - INFO - **************************************************
+2024-04-19 21:24:08,729 - root - INFO - 4
+2024-04-19 21:24:08,730 - root - INFO - Generating rouge outline Rising Action, detail outline 4:
+2024-04-19 21:24:08,730 - root - INFO - Chapter Rising Action:
+2024-04-19 21:24:08,730 - root - INFO - Title: Feeling betrayed and hurt, Diane decides to take revenge on her husband by having an affair of her own with another man in the small town. This decision forces her out of her comfort zone and sets the stage for a series of challenges and conflicts.
+2024-04-19 21:24:08,730 - root - INFO - Content: Feeling betrayed and hurt, Diane decides to take revenge on her husband by having an affair of her own with another man in the small town. This decision forces her out of her comfort zone and sets the stage for a series of challenges and conflicts.
+
+2024-04-19 21:24:16,189 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: /mnt/cephfs/home/wangqianyue/beg
+2024-04-19 21:24:16,895 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device: cuda
+2024-04-19 21:30:15,996 - root - INFO - ==================================================
+2024-04-19 21:30:16,010 - root - INFO - outline:Based on the given rough storyline and historical content, the 0th fine chapter outline for the novel can be generated as follows:
+```json
+{
+    "plot": "Feeling betrayed and hurt, Diane decides to take revenge on her husband by having an affair of her own with another man in the small town. This decision forces her out of her comfort zone and sets the stage for a series of challenges and conflicts.",
+    "key_events": [
+        "Diane discovers that her husband has been cheating on her with another woman.",
+        "Diane decides to take revenge on her husband by having an affair of her own.",
+        "Diane meets another man in the small town and begins an affair with him.",
+        "Diane's affair is discovered by her husband, leading to a confrontation between them."
+    ]
+}
+```
+
+This detailed chapter outline describes the plot development and key events in the story, which will guide the generation of the chapter content. The events are based on the rough storyline and the historical content of the novel, ensuring the coherence and logic of the plot development.
+2024-04-19 21:30:16,010 - root - INFO - ==================================================
+2024-04-19 21:30:20,917 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: /mnt/cephfs/home/wangqianyue/beg
+2024-04-19 21:30:21,670 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device: cuda
+2024-04-19 21:38:10,586 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: /mnt/cephfs/home/wangqianyue/beg
+2024-04-19 21:38:11,336 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device: cuda
+2024-04-19 21:38:11,706 - root - INFO - Exception when set history:all the input arrays must have same number of dimensions, but the array at index 0 has 2 dimension(s) and the array at index 1 has 1 dimension(s)
+2024-04-19 21:38:24,668 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: /mnt/cephfs/home/wangqianyue/beg
+2024-04-19 21:38:25,437 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device: cuda
+2024-04-19 21:38:25,951 - root - INFO - **************************************************
+2024-04-19 21:38:25,951 - root - INFO - content:Sure, I understand your requirements. Here's the generated chapter based on the provided detailed outline and historical content:
+```vbnet
+Chapter 0: The Intertwining Paths
+
+As Diane Chambers sat in her living room, her mind was a whirlwind of emotions. Her husband's infidelity had left her feeling betrayed and hurt, and she knew she couldn't just sit back and take it. Diane had always been a woman of principle, and she believed that every action had a consequence. And so, she decided to take matters into her own hands.
+
+Determined to make her husband suffer as she had, Diane began to look for a way to get back at him. She knew that he was a proud man, and the thought of him being humiliated was too good to pass up. It wasn't long before she met a man in the small town who caught her eye. He was charming, attentive, and most importantly, he was interested in her.
+
+As their relationship grew, Diane found herself drawn into a world of passion and excitement. She knew that what they were doing was wrong, but she couldn't help herself. She had been so stifled in her marriage, and this affair was like a breath of fresh air.
+
+But as Diane's secret began to unravel, she knew that her time was running out. Her husband had discovered her affair, and a confrontation was inevitable. Diane's heart raced as she thought about what was to come. She had never been one to back down from a challenge, but this was different. This was personal.
+
+As the two of them faced each other, the tension was palpable. Diane's husband was furious, and she could see the anger in his eyes. But Diane was not afraid. She had come too far to turn back now.
+
+"I know what you've been doing," her husband spat.
+
+Diane took a deep breath and met his gaze. "Yes, I know what you've been doing too," she replied.
+
+And with that, the gloves came off. Diane and her husband exchanged harsh words, each trying to score a point over the other. But in the end, it was Diane who emerged victorious. She had exposed her husband's infidelity, and in doing so, had found the strength to move on from their troubled marriage.
+
+As Diane walked away from the confrontation, she knew that her life would never be the same. But she was ready for the challenge. She had found a new purpose, and she was determined to make the most of it.
+```
+2024-04-19 21:38:25,951 - root - INFO - **************************************************
+2024-04-19 21:38:25,951 - root - INFO - 5
+2024-04-19 21:38:25,951 - root - INFO - Generating rouge outline Rising Action, detail outline 5:
+2024-04-19 21:38:25,952 - root - INFO - Chapter Rising Action:
+2024-04-19 21:38:25,952 - root - INFO - Title: Feeling betrayed and hurt, Diane decides to take revenge on her husband by having an affair of her own with another man in the small town. This decision forces her out of her comfort zone and sets the stage for a series of challenges and conflicts.
+2024-04-19 21:38:25,952 - root - INFO - Content: Feeling betrayed and hurt, Diane decides to take revenge on her husband by having an affair of her own with another man in the small town. This decision forces her out of her comfort zone and sets the stage for a series of challenges and conflicts.
+
+2024-04-19 21:38:33,813 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: /mnt/cephfs/home/wangqianyue/beg
+2024-04-19 21:38:34,608 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device: cuda
+2024-04-19 21:45:22,646 - root - INFO - Exception when chat to model:'Response' object has no attribute 'request_id'
+2024-04-19 21:45:33,610 - root - INFO - ==================================================
+2024-04-19 21:45:33,610 - root - INFO - outline:Based on the given rough storyline and historical content, the 1st fine chapter outline for the novel can be generated as follows:
+```json
+{
+    "plot": "Diane continues her affair with the man in the small town, and her husband becomes increasingly suspicious of her behavior. Diane must navigate the challenges of keeping her affair hidden while dealing with the consequences of her actions.",
+    "key_events": [
+        "Diane continues her affair with the man in the small town.",
+        "Diane's husband becomes suspicious of her behavior.",
+        "Diane must navigate the challenges of keeping her affair hidden.",
+        "Diane deals with the consequences of her actions."
+    ]
+}
+```
+
+This detailed chapter outline describes the plot development and key events in the story, which will guide the generation of the chapter content. The events are based on the rough storyline and the historical content of the novel, ensuring the coherence and logic of the plot development.
+2024-04-19 21:45:33,610 - root - INFO - ==================================================
+2024-04-19 21:45:37,090 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: /mnt/cephfs/home/wangqianyue/beg
+2024-04-19 21:45:37,899 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device: cuda
+2024-04-19 21:53:47,585 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: /mnt/cephfs/home/wangqianyue/beg
+2024-04-19 21:53:48,299 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device: cuda
+2024-04-19 21:53:49,216 - root - INFO - **************************************************
+2024-04-19 21:53:49,216 - root - INFO - content:In a small town nestled in the picturesque countryside, Diane Chambers found herself entangled in a forbidden romance with a local man named Jack. Despite the guilt that gnawed at her conscience, Diane knew she had made the right choice in ending things with her neglectful husband, Mark.
+As the days passed, Diane continued to sneak away to Jack's cozy cottage on the outskirts of town, their passion growing stronger with each passing moment. But try as she might, Diane couldn't shake the feeling that her husband was becoming increasingly suspicious of her behavior.
+One evening, as Diane sat quietly at the dinner table, Mark's gaze lingered on her intently. She could feel his eyes boring into her, searching for any sign of deception. Diane's heart raced as she tried to maintain her composure, but the weight of her guilt was suffocating her.
+"I know about the hotel rooms and the late-night phone calls," Diane blurted out, the words spilling from her lips before she could stop them.
+Mark's face paled as the truth dawned on him. Diane braced herself for the anger and betrayal that was sure to follow, but to her surprise, her husband simply sighed heavily and shook his head.
+"I should have known," he muttered, his voice barely above a whisper.
+As the reality of her actions sank in, Diane realized that she had put everything she held dear at risk. She vowed to do whatever it took to keep her affair hidden, even if it meant sacrificing her own happiness in the process.
+In the weeks that followed, Diane found herself navigating a treacherous path, walking a tightrope between her passion for Jack and her duty to her family. She knew that the consequences of her actions could be devastating, but for now, she was willing to take that risk.
+As the sun set over the small town, Diane slipped out of her house and made her way to Jack's cottage once again. She knew that she was playing with fire, but for the first time in a long time, she felt truly alive.
+2024-04-19 21:53:49,217 - root - INFO - **************************************************
+2024-04-19 21:53:49,217 - root - INFO - 6
+2024-04-19 21:53:49,217 - root - INFO - Generating rouge outline Rising Action, detail outline 6:
+2024-04-19 21:53:49,217 - root - INFO - Chapter Rising Action:
+2024-04-19 21:53:49,217 - root - INFO - Title: Feeling betrayed and hurt, Diane decides to take revenge on her husband by having an affair of her own with another man in the small town. This decision forces her out of her comfort zone and sets the stage for a series of challenges and conflicts.
+2024-04-19 21:53:49,217 - root - INFO - Content: Feeling betrayed and hurt, Diane decides to take revenge on her husband by having an affair of her own with another man in the small town. This decision forces her out of her comfort zone and sets the stage for a series of challenges and conflicts.
+
+2024-04-19 21:53:57,785 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: /mnt/cephfs/home/wangqianyue/beg
+2024-04-19 21:53:58,505 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device: cuda
+2024-04-19 22:02:11,656 - root - INFO - ==================================================
+2024-04-19 22:02:11,668 - root - INFO - outline:Based on the given rough storyline, historical content, and previous detailed chapter outlines, the 2nd fine chapter outline for the novel can be generated as follows:
+```json
+{
+    "plot": "Diane's affair with the man in the small town becomes more intense, and she finds herself falling deeper in love with him. Meanwhile, her husband becomes more aggressive and confrontational, leading to a heated argument between them. Diane must decide whether to continue her affair or end it to save her marriage.",
+    "key_events": [
+        "Diane's affair with the man in the small town becomes more intense.",
+        "Diane falls deeper in love with the man.",
+        "Diane's husband becomes more aggressive and confrontational.",
+        "A heated argument breaks out between Diane and her husband.",
+        "Diane must decide whether to continue her affair or end it to save her marriage."
+    ]
+}
+```
+
+This detailed chapter outline describes the plot development and key events in the story, which will guide the generation of the chapter content. The events are based on the rough storyline, historical content of the novel, and the previous detailed chapter outlines, ensuring the coherence and logic of the plot development.
+2024-04-19 22:02:11,668 - root - INFO - ==================================================
+2024-04-19 22:02:16,728 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: /mnt/cephfs/home/wangqianyue/beg
+2024-04-19 22:02:17,475 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device: cuda
+2024-04-19 22:11:35,447 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: /mnt/cephfs/home/wangqianyue/beg
+2024-04-19 22:11:36,442 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device: cuda
+2024-04-19 22:11:37,362 - root - INFO - **************************************************
+2024-04-19 22:11:37,362 - root - INFO - content:As Diane Chambers slipped out of her house and made her way to Jack's cottage, her heart raced with anticipation. She couldn't shake the feeling that her husband was suspicious, but she knew she had to see Jack. When she arrived, she blurted out that she knew about the hotel rooms and the late-night phone calls. Jack's face fell, and Diane knew that she had uncovered his secret.
+As the days passed, Diane's affair with Jack became more intense. She found herself falling deeper in love with him, despite knowing that she should feel guilty. Her husband's actions had driven her to this point, and she knew that she had made the right choice by being with Jack. But she also knew that she had to be careful, had to end things with Jack, and what she was doing was risky.
+One day, Diane's husband became more aggressive and confrontational. A heated argument broke out between them, with Diane's husband accusing her of cheating on him. Diane knew that she couldn't deny it anymore, but she also knew that she couldn't give up Jack. She was torn between her love for Jack and her commitment to her marriage.
+As the argument raged on, Diane realized that she had to make a decision. She couldn't continue her affair with Jack and save her marriage at the same time. With a heavy heart, she knew that she had to end things with Jack to save her marriage. It was the hardest decision she had ever made, but she knew that it was the right one.
+As Diane walked away from Jack's cottage, tears streaming down her face, she knew that she would never forget him. But she also knew that she had to move on, for the sake of her marriage and her own happiness. She took a deep breath and walked back to her house, determined to put the past behind her and start anew.
+2024-04-19 22:11:37,362 - root - INFO - **************************************************
+2024-04-19 22:11:37,362 - root - INFO - 7
+2024-04-19 22:11:37,362 - root - INFO - Generating rouge outline Climax, detail outline 7:
+2024-04-19 22:11:37,362 - root - INFO - Chapter Climax:
+2024-04-19 22:11:37,363 - root - INFO - Title: Mark discovers Diane's affair and confronts her, leading to a tense and emotional showdown between the couple. The climax of the story unfolds as they face the main conflict of betrayal and deception.
+2024-04-19 22:11:37,363 - root - INFO - Content: Mark discovers Diane's affair and confronts her, leading to a tense and emotional showdown between the couple. The climax of the story unfolds as they face the main conflict of betrayal and deception.
+
+2024-04-19 22:11:46,369 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: /mnt/cephfs/home/wangqianyue/beg
+2024-04-19 22:11:47,093 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device: cuda
+2024-04-19 22:22:08,494 - root - INFO - ==================================================
+2024-04-19 22:22:08,510 - root - INFO - outline:Sure, let's get started. Based on the given rough storyline, previous detailed chapter outlines, and historical content in the novel, the following is a detailed chapter outline for the 0th chapter:
+```json
+{
+  "plot": "Mark confronts Diane about her affair, leading to a tense and emotional showdown between the couple. The climax of the story unfolds as they face the main conflict of betrayal and deception.",
+  "key_events": [
+    "Mark discovers Diane's affair",
+    "Mark confronts Diane about the affair",
+    "Diane tries to maintain her composure",
+    "The weight of Diane's guilt becomes suffocating",
+    "The confrontation leads to a showdown between the couple",
+    "The climax of the story unfolds as they face the main conflict of betrayal and deception"
+  ]
+}
+```
+
+This detailed chapter outline describes the key events in the chapter, including Mark discovering Diane's affair and confronting her about it, Diane's attempts to maintain composure, the weight of her guilt becoming suffocating, and the confrontation leading to a showdown between the couple. The climax of the story unfolds as they face the main conflict of betrayal and deception.
+2024-04-19 22:22:08,510 - root - INFO - ==================================================
+2024-04-19 22:22:12,937 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: /mnt/cephfs/home/wangqianyue/beg
+2024-04-19 22:22:13,682 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device: cuda
+2024-04-19 22:26:59,206 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: /mnt/cephfs/home/wangqianyue/beg
+2024-04-19 22:27:00,001 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device: cuda
+2024-04-19 22:27:03,949 - root - INFO - **************************************************
+2024-04-19 22:27:03,949 - root - INFO - content:Chapter 0: The Confrontation
+Mark sat across from Diane, his eyes blazing with anger and betrayal. He had discovered her secret, the one she had been hiding for so long. The weight of her guilt was suffocating her, and she could feel her composure slipping away.
+"You know what I found out, Diane," Mark said, his voice low and dangerous.
+Diane tried to maintain her composure, but the words were already on her tongue. "I know about the hotel rooms and the late-night phone calls," she blurted out.
+The air in the room grew tense as Mark's eyes narrowed. "You've been cheating on me," he said, his voice barely above a whisper.
+Diane felt like her heart had been ripped out of her chest. She had never meant to hurt him, but the诱惑 had been too strong. She had let her guard down, and now she was paying the price.
+"I'm so sorry, Mark," she said, tears streaming down her face. "I never meant for this to happen."
+But sorry wasn't enough. Mark stood up, his face contorted with rage. "Get out," he said, his voice shaking with emotion.
+Diane felt like the ground had been pulled out from underneath her. She had lost the love of her life, and there was nothing she could do to change that. She gathered her things and left the room, her heart heavy with regret and sorrow.
+As she walked out the door, Diane knew that her life would never be the same. The weight of her guilt and betrayal would stay with her forever, a constant reminder of the mistakes she had made.
+2024-04-19 22:27:03,949 - root - INFO - **************************************************
+2024-04-19 22:27:03,949 - root - INFO - 8
+2024-04-19 22:27:03,949 - root - INFO - Generating rouge outline Climax, detail outline 8:
+2024-04-19 22:27:03,950 - root - INFO - Chapter Climax:
+2024-04-19 22:27:03,950 - root - INFO - Title: Mark discovers Diane's affair and confronts her, leading to a tense and emotional showdown between the couple. The climax of the story unfolds as they face the main conflict of betrayal and deception.
+2024-04-19 22:27:03,950 - root - INFO - Content: Mark discovers Diane's affair and confronts her, leading to a tense and emotional showdown between the couple. The climax of the story unfolds as they face the main conflict of betrayal and deception.
+
+2024-04-19 22:27:11,696 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: /mnt/cephfs/home/wangqianyue/beg
+2024-04-19 22:27:12,447 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device: cuda
+2024-04-19 22:33:41,760 - root - INFO - ==================================================
+2024-04-19 22:33:41,788 - root - INFO - outline:Sure, let's get started. Based on the given rough storyline, previous detailed chapter outlines, and historical content in the novel, the following is a detailed chapter outline for the 1st chapter:
+```json
+{
+  "plot": "Mark confronts Diane about her affair and the weight of guilt becomes suffocating. Diane tries to maintain composure but the confrontation leads to a tense and emotional showdown between the couple.",
+  "key_events": [
+    "Mark confronts Diane about her affair",
+    "The weight of Diane's guilt becomes suffocating",
+    "Diane tries to maintain composure",
+    "The confrontation leads to a showdown between the couple",
+    "The tension and emotion escalate between Mark and Diane",
+    "The couple faces the main conflict of betrayal and deception"
+  ]
+}
+```
+
+This detailed chapter outline describes the key events in the chapter, including Mark confronting Diane about her affair and the weight of her guilt becoming suffocating, Diane's attempts to maintain composure, the confrontation leading to a showdown between the couple, and the tension and emotion escalating between Mark and Diane. The couple faces the main conflict of betrayal and deception.
+2024-04-19 22:33:41,788 - root - INFO - ==================================================
+2024-04-19 22:33:46,401 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: /mnt/cephfs/home/wangqianyue/beg
+2024-04-19 22:33:47,146 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device: cuda
+2024-04-19 22:46:05,714 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: /mnt/cephfs/home/wangqianyue/beg
+2024-04-19 22:46:06,504 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device: cuda
+2024-04-19 22:46:09,599 - root - INFO - **************************************************
+2024-04-19 22:46:09,600 - root - INFO - content:Chapter 1: The Confrontation
+Mark's voice echoed through the room as he slammed his fist on the table. "Get out," he spat, his eyes filled with rage. "You've been cheating on me, Diane. You hurt me in a way that I never thought was possible."
+Diane's eyes widened in shock as she tried to maintain her composure. She had known that her secret would eventually come to light, but she never imagined it would be like this. "I know about the hotel rooms and the late-night phone calls," Mark continued, his voice trembling with anger.
+Diane couldn't believe that her affair had been discovered by her husband. She had been so careful, so meticulous in covering her tracks. But now, as the weight of her guilt became suffocating, she realized that her carefully constructed facade had crumbled.
+"I'm sorry," she whispered, her voice barely audible over the sound of her own heart pounding in her chest.
+But sorry wasn't enough. The heated argument that ensued was filled with accusations and recriminations, with each side blaming the other for the breakdown of their marriage. The tension and emotion escalated, with both Mark and Diane struggling to come to terms with the betrayal and deception that had torn their lives apart.
+As the confrontation reached its boiling point, Diane knew that there was no going back. The life she had built with Mark was shattered, and she was left to pick up the pieces of her shattered soul.
+2024-04-19 22:46:09,600 - root - INFO - **************************************************
+2024-04-19 22:46:09,600 - root - INFO - 9
+2024-04-19 22:46:09,600 - root - INFO - Generating rouge outline Climax, detail outline 9:
+2024-04-19 22:46:09,600 - root - INFO - Chapter Climax:
+2024-04-19 22:46:09,600 - root - INFO - Title: Mark discovers Diane's affair and confronts her, leading to a tense and emotional showdown between the couple. The climax of the story unfolds as they face the main conflict of betrayal and deception.
+2024-04-19 22:46:09,600 - root - INFO - Content: Mark discovers Diane's affair and confronts her, leading to a tense and emotional showdown between the couple. The climax of the story unfolds as they face the main conflict of betrayal and deception.
+
+2024-04-19 22:46:16,875 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: /mnt/cephfs/home/wangqianyue/beg
+2024-04-19 22:46:17,622 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device: cuda
+2024-04-19 22:52:40,995 - root - INFO - Exception when chat to model:'Response' object has no attribute 'request_id'
+2024-04-19 22:52:54,287 - root - INFO - ==================================================
+2024-04-19 22:52:54,287 - root - INFO - outline:Sure, let's get started. Based on the given rough storyline, previous detailed chapter outlines, and historical content in the novel, the following is a detailed chapter outline for the 2nd chapter:
+```json
+{
+  "plot": "Mark and Diane's confrontation becomes a heated argument as they both express their feelings of anger, hurt, and betrayal. Diane tries to explain herself, but Mark is not willing to listen. The tension between them becomes palpable as they struggle to come to terms with the affair.",
+  "key_events": [
+    "The confrontation between Mark and Diane escalates into a heated argument",
+    "Both parties express their feelings of anger, hurt, and betrayal",
+    "Diane tries to explain herself but Mark is not willing to listen",
+    "The tension between Mark and Diane becomes palpable",
+    "They struggle to come to terms with the affair"
+  ]
+}
+```
+
+This detailed chapter outline describes the key events in the chapter, including the escalation of the confrontation between Mark and Diane into a heated argument, both parties expressing their feelings of anger, hurt, and betrayal, Diane's attempts to explain herself but Mark's unwillingness to listen, the palpable tension between them, and their struggle to come to terms with the affair.
+2024-04-19 22:52:54,288 - root - INFO - ==================================================
+2024-04-19 22:52:59,218 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: /mnt/cephfs/home/wangqianyue/beg
+2024-04-19 22:52:59,923 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device: cuda
+2024-04-19 23:08:28,174 - root - INFO - Exception when chat to model:'Response' object has no attribute 'request_id'
+2024-04-19 23:09:05,013 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: /mnt/cephfs/home/wangqianyue/beg
+2024-04-19 23:09:05,777 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device: cuda
+2024-04-19 23:09:11,627 - root - INFO - **************************************************
+2024-04-19 23:09:11,627 - root - INFO - content:Chapter 2: The Confrontation
+As the truth of Mark's affair came to light, the air between him and Diane grew thick with tension. The once-loving couple now stood on opposite sides of an invisible divide, their words laced with hurt and anger.
+Mark's eyes bored into Diane's, his voice laced with betrayal. "Get out," he spat. "You've been cheating on me. You hurt me in a way that I never thought was possible. But sorry isn't enough."
+Diane felt like her heart had been ripped out of her chest. She knew she had made a mistake, but she never meant to hurt Mark. "I know about the hotel rooms and the late-night phone calls," she admitted, her voice shaking.
+The confrontation had reached its boiling point. Diane tried to explain herself, but Mark wouldn't listen. He was too consumed by his own pain and betrayal.
+As the argument raged on, the tension between them became palpable. Diane felt like she was drowning in a sea of guilt and regret, while Mark was consumed by a wave of anger and hurt.
+The two of them struggled to come to terms with the affair, their once-solid foundation now shattered beyond repair. Diane牺牲了自己的事业以尝试挽回这段婚姻，但她知道，有些事情再也回不去了。
+2024-04-19 23:09:11,628 - root - INFO - **************************************************
+2024-04-19 23:09:11,628 - root - INFO - 10
+2024-04-19 23:09:11,628 - root - INFO - Generating rouge outline Falling Action, detail outline 10:
+2024-04-19 23:09:11,628 - root - INFO - Chapter Falling Action:
+2024-04-19 23:09:11,628 - root - INFO - Title: After the confrontation, the story transitions to the falling action where Diane and Mark begin to deal with the aftermath of their confrontation. Conflicts start to resolve, and the tension gradually decreases as they come to terms with the situation.
+2024-04-19 23:09:11,628 - root - INFO - Content: After the confrontation, the story transitions to the falling action where Diane and Mark begin to deal with the aftermath of their confrontation. Conflicts start to resolve, and the tension gradually decreases as they come to terms with the situation.
+
+2024-04-19 23:09:17,828 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: /mnt/cephfs/home/wangqianyue/beg
+2024-04-19 23:09:18,506 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device: cuda
+2024-04-19 23:17:39,429 - root - INFO - ==================================================
+2024-04-19 23:17:39,443 - root - INFO - outline:Sure, I can help you with that. Based on the given rough storyline and historical content of the novel, I suggest the following detailed chapter outline for the 0th fine chapter outline:
+```json
+{
+  "plot": "Diane and Mark deal with the aftermath of their confrontation. Conflicts start to resolve and tension decreases as they come to terms with the situation.",
+  "key_events": [
+    "Diane and Mark talk about the confrontation and their feelings.",
+    "Diane apologizes to Mark for her actions and promises to make things right.",
+    "Mark forgives Diane, but they both know that things will never be the same again.",
+    "Diane and Mark start to work on repairing their relationship and rebuilding trust.",
+    "Tension and conflicts gradually decrease as they come to terms with the situation."
+  ]
+}
+```
+
+This detailed chapter outline describes the plot development and key events in the aftermath of the confrontation between Diane and Mark. It also takes into account the historical content of the novel, including Diane's guilt and regret, her decision to end her affair, and her efforts to make things right with Mark. The key events in this chapter outline include conversations between Diane and Mark, apologies and forgiveness, and the start of their efforts to repair their relationship.
+2024-04-19 23:17:39,443 - root - INFO - ==================================================
+2024-04-19 23:17:42,063 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: /mnt/cephfs/home/wangqianyue/beg
+2024-04-19 23:17:42,733 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device: cuda
+2024-04-19 23:31:25,087 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: /mnt/cephfs/home/wangqianyue/beg
+2024-04-19 23:31:25,809 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device: cuda
+2024-04-19 23:31:27,092 - root - INFO - **************************************************
+2024-04-19 23:31:27,092 - root - INFO - content:Chapter 0: A New Beginning
+Diane Chambers sat across from Mark, her heart heavy with guilt and regret. She had made a mistake, and now she had to face the consequences of her actions.
+"I'm sorry, Mark," Diane said, her voice barely above a whisper. "I know I can't undo what I've done, but I promise I'll do anything to make things right."
+Mark looked at Diane, his expression softening. He had been hurt and angry when he had discovered her secret, but he knew that forgiveness was the only way to move forward.
+"I forgive you, Diane," Mark said, reaching across the table to take her hand. "But we both know that things will never be the same again."
+Diane nodded, tears streaming down her face. She knew that she had hurt Mark deeply, and she was determined to make amends.
+Over the next few weeks, Diane and Mark worked tirelessly to repair their relationship. They talked openly and honestly about their feelings, and slowly but surely, the tension between them began to dissipate.
+As they worked to rebuild trust, Diane found herself filled with a sense of hope and renewal. She knew that the road ahead would be long and difficult, but she was willing to do whatever it took to make things right with the man she loved.
+And as the days turned into weeks and the weeks turned into months, Diane and Mark found themselves growing closer than ever before. They knew that their journey was far from over, but they were determined to face whatever challenges lay ahead together.
+2024-04-19 23:31:27,093 - root - INFO - **************************************************
+2024-04-19 23:31:27,093 - root - INFO - 11
+2024-04-19 23:31:27,093 - root - INFO - Generating rouge outline Falling Action, detail outline 11:
+2024-04-19 23:31:27,093 - root - INFO - Chapter Falling Action:
+2024-04-19 23:31:27,093 - root - INFO - Title: After the confrontation, the story transitions to the falling action where Diane and Mark begin to deal with the aftermath of their confrontation. Conflicts start to resolve, and the tension gradually decreases as they come to terms with the situation.
+2024-04-19 23:31:27,093 - root - INFO - Content: After the confrontation, the story transitions to the falling action where Diane and Mark begin to deal with the aftermath of their confrontation. Conflicts start to resolve, and the tension gradually decreases as they come to terms with the situation.
+
+2024-04-19 23:31:33,117 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: /mnt/cephfs/home/wangqianyue/beg
+2024-04-19 23:31:33,787 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device: cuda
+2024-04-19 23:40:50,572 - root - INFO - ==================================================
+2024-04-19 23:40:50,585 - root - INFO - outline:Sure, I can help you with that. Based on the given rough storyline and historical content of the novel, I suggest the following detailed chapter outline for the 1st fine chapter outline:
+```json
+{
+  "plot": "Diane struggles with her guilt and regret, while Mark tries to move on from the confrontation. Diane realizes that she needs to make amends and takes steps towards doing so.",
+  "key_events": [
+    "Diane feels overwhelmed by guilt and regret, and Mark tries to move on from the confrontation.",
+    "Diane realizes that she needs to make amends and takes steps towards doing so.",
+    "Diane reaches out to Jack to end the affair for good.",
+    "Diane tells Mark the truth about her affair and apologizes for hurting him.",
+    "Mark is devastated by the news, but Diane promises to do everything in her power to make things right."
+  ]
+}
+```
+
+This detailed chapter outline describes the plot development and key events in the aftermath of the confrontation between Diane and Mark. It also takes into account the historical content of the novel, including Diane's guilt and regret, her decision to end her affair, and her efforts to make things right with Mark. The key events in this chapter outline include Diane's realization that she needs to make amends, her efforts to end the affair, and her apology to Mark.
+2024-04-19 23:40:50,586 - root - INFO - ==================================================
+2024-04-19 23:41:06,300 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: /mnt/cephfs/home/wangqianyue/beg
+2024-04-19 23:41:07,014 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device: cuda
+2024-04-19 23:57:28,350 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: /mnt/cephfs/home/wangqianyue/beg
+2024-04-19 23:57:29,111 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device: cuda
+2024-04-19 23:57:30,419 - root - INFO - **************************************************
+2024-04-19 23:57:30,420 - root - INFO - content:As Diane sat in her bedroom, the weight of her actions bearing down on her, she couldn't help but feel overwhelmed by guilt and regret. She knew that she had hurt Mark deeply, and the thought of what she had done made her stomach churn.
+Mark, on the other hand, was trying to move on from the confrontation. He had always known that Diane was a complicated woman, but he had never expected her to cheat on him. As he sat in his study, trying to focus on his work, he couldn't shake the feeling of betrayal that lingered in the air.
+Diane knew that she needed to make amends, and she knew that the first step was to end things with Jack once and for all. She reached out to him, explaining that she couldn't continue their affair and that she needed to focus on her marriage.
+Jack was hurt and confused, but he understood where Diane was coming from. He knew that he had played a part in her decision to cheat, and he didn't blame her for wanting to make things right with Mark.
+With the affair behind her, Diane felt a sense of relief wash over her. She knew that she had a long road ahead of her, but she was determined to make things right with Mark.
+She sat down with him, tears streaming down her face, and told him the truth about her affair. She apologized for hurting him and promised to do everything in her power to make things right.
+Mark was devastated by the news. He had always trusted Diane, and the thought of her cheating on him was too much to bear. But he could see the remorse in her eyes, and he knew that she was truly sorry.
+He agreed to give her another chance, but he made it clear that things would never be the same between them. Diane knew that she had a lot of work to do to regain his trust, but she was willing to do whatever it took to make things right.
+2024-04-19 23:57:30,420 - root - INFO - **************************************************
+2024-04-19 23:57:30,420 - root - INFO - 12
+2024-04-19 23:57:30,420 - root - INFO - Generating rouge outline Falling Action, detail outline 12:
+2024-04-19 23:57:30,420 - root - INFO - Chapter Falling Action:
+2024-04-19 23:57:30,420 - root - INFO - Title: After the confrontation, the story transitions to the falling action where Diane and Mark begin to deal with the aftermath of their confrontation. Conflicts start to resolve, and the tension gradually decreases as they come to terms with the situation.
+2024-04-19 23:57:30,420 - root - INFO - Content: After the confrontation, the story transitions to the falling action where Diane and Mark begin to deal with the aftermath of their confrontation. Conflicts start to resolve, and the tension gradually decreases as they come to terms with the situation.
+
+2024-04-19 23:57:36,518 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: /mnt/cephfs/home/wangqianyue/beg
+2024-04-19 23:57:37,536 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device: cuda
+2024-04-19 23:57:54,647 - root - INFO - ==================================================
+2024-04-19 23:57:54,647 - root - INFO - outline:Sure, I can help you with that. Based on the given rough storyline and historical content of the novel, I suggest the following detailed chapter outline for the 2nd fine chapter outline:
+```json
+{
+  "plot": "Diane and Mark continue to work on their relationship and make progress towards rebuilding trust. However, they face new challenges and obstacles along the way.",
+  "key_events": [
+    "Diane and Mark continue to have open and honest conversations about their feelings and the situation.",
+    "They start to go on dates and do things together to rebuild their connection.",
+    "Diane and Mark face new challenges and obstacles, such as disagreements about how to handle the situation with their friends and family.",
+    "Despite these challenges, Diane and Mark continue to work on their relationship and make progress towards rebuilding trust.",
+    "The tension and conflicts continue to decrease as they come to terms with the situation and work towards a resolution."
+  ]
+}
+```
+
+This detailed chapter outline describes the plot development and key events as Diane and Mark continue to work on their relationship and make progress towards rebuilding trust. It takes into account the historical content of the novel, including their efforts to repair their relationship and the challenges they face along the way. The key events in this chapter outline include conversations and activities to rebuild their connection, disagreements about how to handle the situation with others, and continued progress towards resolution.
+2024-04-19 23:57:54,647 - root - INFO - ==================================================
+2024-04-19 23:57:59,503 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: /mnt/cephfs/home/wangqianyue/beg
+2024-04-19 23:58:00,273 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device: cuda
+2024-04-20 00:07:33,091 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: /mnt/cephfs/home/wangqianyue/beg
+2024-04-20 00:07:33,888 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device: cuda
+2024-04-20 00:07:34,793 - root - INFO - **************************************************
+2024-04-20 00:07:34,793 - root - INFO - content:Chapter 2: Rebuilding Trust
+
+Diane and Mark sat on the couch, staring at each other in silence. The tension between them was palpable, but they both knew that they had to keep talking if they wanted to make things right.
+"Diane, I know this is going to be hard, but we have to be honest with each other," Mark said, his voice barely above a whisper.
+Diane nodded, tears welling up in her eyes. "I know, Mark. I've been thinking about what I did, and I realize that it was a huge mistake. I never meant to hurt you, and I'm so sorry."
+Mark took a deep breath and looked into Diane's eyes. "I know you're sorry, Diane. But we have a long road ahead of us if we want to make things right. We have to work on rebuilding trust, and that's going to take time."
+Diane nodded, feeling a sense of hope and renewal. She knew that it wouldn't be easy, but she was willing to do whatever it took to make things right with Mark. She knew that she couldn't change the past, but she could work towards a better future.
+Over the next few weeks, Diane and Mark went on dates and did things together to rebuild their connection. They talked openly and honestly about their feelings, and slowly but surely, they started to make progress towards rebuilding trust.
+But along the way, they faced new challenges and obstacles. They disagreed about how to handle the situation with their friends and family, and it caused tension and conflicts.
+Despite these challenges, Diane and Mark continued to work on their relationship. They came to terms with the situation and worked towards a resolution, and the tension and conflicts continued to decrease.
+As they sat on the couch, holding hands, Diane knew that they still had a long way to go. But she also knew that they were on the right path, and that gave her hope for a brighter future.
+2024-04-20 00:07:34,793 - root - INFO - **************************************************
+2024-04-20 00:07:34,793 - root - INFO - 13
+2024-04-20 00:07:34,793 - root - INFO - Generating rouge outline Resolution, detail outline 13:
+2024-04-20 00:07:34,793 - root - INFO - Chapter Resolution:
+2024-04-20 00:07:34,794 - root - INFO - Title: In the resolution stage, the conflict between Diane and Mark is resolved. The fate of the characters is clarified, and the story reaches a satisfying conclusion where both characters experience inner changes and growth through the ordeal.
+2024-04-20 00:07:34,794 - root - INFO - Content: In the resolution stage, the conflict between Diane and Mark is resolved. The fate of the characters is clarified, and the story reaches a satisfying conclusion where both characters experience inner changes and growth through the ordeal.
+
+2024-04-20 00:07:41,586 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: /mnt/cephfs/home/wangqianyue/beg
+2024-04-20 00:07:42,347 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device: cuda
+2024-04-20 00:17:13,963 - root - INFO - ==================================================
+2024-04-20 00:17:13,977 - root - INFO - outline:Sure, let's get started.
+Based on the given rough storyline and historical content, the following is a detailed chapter outline for the resolution stage of the story:
+```json
+{
+  "plot": "In the resolution stage, the conflict between Diane and Mark is resolved. The fate of the characters is clarified, and the story reaches a satisfying conclusion where both characters experience inner changes and growth through the ordeal.",
+  "key_events": [
+    "Diane and Mark have a heart-to-heart conversation where Diane explains her reasons for ending her affair and Mark forgives her.",
+    "Diane takes concrete steps to make amends for her actions, including apologizing to those she has hurt and making restitution where possible.",
+    "Diane and Mark work together to rebuild their marriage, seeking counseling and making a commitment to communicate more openly and honestly with each other.",
+    "The couple experiences inner growth and changes, learning to trust and support each other in new ways.",
+    "The story concludes with a sense of hope for the future, as Diane and Mark embark on a new chapter in their lives together."
+  ]
+}
+```
+
+This detailed chapter outline describes the plot development and key events in the resolution stage of the story, taking into account the historical content of the novel and the previous detailed chapter outlines.
+2024-04-20 00:17:13,977 - root - INFO - ==================================================
+2024-04-20 00:17:23,046 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: /mnt/cephfs/home/wangqianyue/beg
+2024-04-20 00:17:23,776 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device: cuda
+2024-04-20 00:34:41,041 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: /mnt/cephfs/home/wangqianyue/beg
+2024-04-20 00:34:41,808 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device: cuda
+2024-04-20 00:34:42,869 - root - INFO - **************************************************
+2024-04-20 00:34:42,869 - root - INFO - content:As the sun rose on a new day, Diane and Mark found themselves sitting on the porch, enjoying the tranquility of the morning. The air was crisp and the birds sang sweetly, but the weight of the past still lingered between them.
+Diane took a deep breath and turned to Mark, her heart heavy with remorse. "I know I've hurt you, Mark," she said softly. "And I can't even begin to express how sorry I am. But I want you to know that I'm willing to do whatever it takes to make things right between us. I love you, and I'm determined to face whatever challenges lie ahead together."
+Mark looked at her, his eyes filled with pain but also with a glimmer of hope. "I forgive you, Diane," he said, his voice barely above a whisper. "But it's going to take time for me to trust you again. And it's going to take work on both our parts to repair our relationship."
+Diane nodded, tears streaming down her face. "I understand, Mark. And I'm willing to do whatever it takes. I'll apologize to those I've hurt and make restitution where possible. And I'll work tirelessly to rebuild our marriage, seeking counseling and making a commitment to communicate more openly and honestly with each other."
+Together, they took the first steps towards healing, determined to face their challenges head-on and emerge stronger on the other side. And as they held hands and watched the sun rise, they knew that their love was stronger than ever before.
+The weeks and months passed, and Diane and Mark slowly but surely worked to rebuild their relationship. They attended counseling sessions and learned new ways to communicate and support each other. And through it all, they grew closer than ever before, experiencing inner growth and changes that they never thought possible.
+And as the years passed, Diane and Mark looked back on their journey with a sense of pride and accomplishment. They had faced their challenges head-on, and had come out stronger on the other side. And as they walked hand in hand into the sunset, they knew that their love would continue to grow and flourish, no matter what the future held.
+2024-04-20 00:34:42,869 - root - INFO - **************************************************
+2024-04-20 00:34:42,870 - root - INFO - 14
+2024-04-20 00:34:42,870 - root - INFO - Generating rouge outline Resolution, detail outline 14:
+2024-04-20 00:34:42,870 - root - INFO - Chapter Resolution:
+2024-04-20 00:34:42,870 - root - INFO - Title: In the resolution stage, the conflict between Diane and Mark is resolved. The fate of the characters is clarified, and the story reaches a satisfying conclusion where both characters experience inner changes and growth through the ordeal.
+2024-04-20 00:34:42,870 - root - INFO - Content: In the resolution stage, the conflict between Diane and Mark is resolved. The fate of the characters is clarified, and the story reaches a satisfying conclusion where both characters experience inner changes and growth through the ordeal.
+
+2024-04-20 00:34:49,177 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: /mnt/cephfs/home/wangqianyue/beg
+2024-04-20 00:34:49,877 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device: cuda
+2024-04-20 00:45:19,569 - root - INFO - Exception when chat to model:'Response' object has no attribute 'request_id'
+2024-04-20 00:45:39,700 - root - INFO - ==================================================
+2024-04-20 00:45:39,700 - root - INFO - outline:Sure, I can help you generate the detailed chapter outline for the given rough storyline and historical content.
+Based on the historical content of the novel and the previous detailed chapter outlines, it seems that the conflict between Diane and Mark has been building up over the past few chapters. However, in this resolution stage, the conflict is finally resolved.
+The key events in this stage could include:
+1. Diane and Mark have a heart-to-heart conversation where Diane explains her reasons for ending her affair and Mark forgives her.
+2. Diane takes concrete steps to make amends for her actions, including apologizing to those she has hurt and making restitution where possible.
+3. Diane and Mark work together to rebuild their marriage, seeking counseling and making a commitment to communicate more openly and honestly with each other.
+4. The couple experiences inner growth and changes, learning to trust and support each other in new ways.
+5. The story concludes with a sense of hope for the future, as Diane and Mark embark on a new chapter in their lives together.
+Based on these key events, the detailed chapter outline for the resolution stage of the story could be:
+```json
+{
+  "plot": "In the resolution stage, the conflict between Diane and Mark is resolved. The fate of the characters is clarified, and the story reaches a satisfying conclusion where both characters experience inner changes and growth through the ordeal.",
+  "key_events": [
+    "Diane and Mark have a heart-to-heart conversation where Diane explains her reasons for ending her affair and Mark forgives her.",
+    "Diane takes concrete steps to make amends for her actions, including apologizing to those she has hurt and making restitution where possible.",
+    "Diane and Mark work together to rebuild their marriage, seeking counseling and making a commitment to communicate more openly and honestly with each other.",
+    "The couple experiences inner growth and changes, learning to trust and support each other in new ways.",
+    "The story concludes with a sense of hope for the future, as Diane and Mark embark on a new chapter in their lives together."
+  ]
+}
+```
+
+I hope this detailed chapter outline helps guide the generation of the chapter content for your novel. Let me know if you need any further assistance!
+2024-04-20 00:45:39,700 - root - INFO - ==================================================
+2024-04-20 00:45:51,169 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: /mnt/cephfs/home/wangqianyue/beg
+2024-04-20 00:45:51,899 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device: cuda
+2024-04-20 01:02:22,845 - root - INFO - Exception when chat to model:'Response' object has no attribute 'request_id'
+2024-04-20 01:02:50,435 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: /mnt/cephfs/home/wangqianyue/beg
+2024-04-20 01:02:51,141 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device: cuda
+2024-04-20 01:02:52,530 - root - INFO - **************************************************
+2024-04-20 01:02:52,530 - root - INFO - content:In the resolution stage, Diane and Mark finally had a heart-to-heart conversation. Diane explained her reasons for ending her affair with Jack, and how she had realized that their love had been a mistake. She expressed her regret for hurting Mark and apologized for her actions. Mark, although still hurt, forgave Diane and promised to work on rebuilding their marriage.
+Diane took concrete steps to make amends for her actions. She apologized to those she had hurt, including Jack and her own family. She also made restitution where possible, such as returning gifts that Jack had given her. Diane realized that she needed to be honest with herself and others, and that she could no longer keep secrets.
+Diane and Mark sought counseling together, and made a commitment to communicate more openly and honestly with each other. They learned to trust and support each other in new ways, and their relationship grew stronger. They both experienced inner growth and changes, and realized that their love for each other was stronger than any obstacle they might face.
+As the story concludes, Diane and Mark embark on a new chapter in their lives together. They have a renewed sense of hope for the future, and are excited to see what lies ahead. Diane has learned that forgiveness and redemption are possible, and that true love can withstand even the toughest challenges.
+2024-04-20 01:02:52,531 - root - INFO - **************************************************
+2024-04-20 01:02:52,531 - root - INFO - 15
+2024-04-20 01:02:52,531 - root - INFO - Generating rouge outline Resolution, detail outline 15:
+2024-04-20 01:02:52,531 - root - INFO - Chapter Resolution:
+2024-04-20 01:02:52,531 - root - INFO - Title: In the resolution stage, the conflict between Diane and Mark is resolved. The fate of the characters is clarified, and the story reaches a satisfying conclusion where both characters experience inner changes and growth through the ordeal.
+2024-04-20 01:02:52,531 - root - INFO - Content: In the resolution stage, the conflict between Diane and Mark is resolved. The fate of the characters is clarified, and the story reaches a satisfying conclusion where both characters experience inner changes and growth through the ordeal.
+
+2024-04-20 01:02:58,974 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: /mnt/cephfs/home/wangqianyue/beg
+2024-04-20 01:02:59,690 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device: cuda
+2024-04-20 01:03:19,915 - root - INFO - Exception when chat to model:'Response' object has no attribute 'request_id'
+2024-04-20 01:03:33,122 - root - INFO - ==================================================
+2024-04-20 01:03:33,122 - root - INFO - outline:Based on the given rough storyline, historical content, and the previous detailed chapter outlines, the following is a detailed chapter outline for the resolution stage of the story:
+```json
+{
+  "plot": "In the resolution stage, the conflict between Diane and Mark is resolved. The fate of the characters is clarified, and the story reaches a satisfying conclusion where both characters experience inner changes and growth through the ordeal.",
+  "key_events": [
+    "Diane and Mark have a heart-to-heart conversation where Diane explains her reasons for ending her affair and Mark forgives her.",
+    "Diane takes concrete steps to make amends for her actions, including apologizing to those she has hurt and making restitution where possible.",
+    "Diane and Mark work together to rebuild their marriage, seeking counseling and making a commitment to communicate more openly and honestly with each other.",
+    "The couple experiences inner growth and changes, learning to trust and support each other in new ways.",
+    "The story concludes with a sense of hope for the future, as Diane and Mark embark on a new chapter in their lives together."
+  ]
+}
+```
+
+This detailed chapter outline describes the plot development and key events in the resolution stage of the story, taking into account the historical content of the novel and the previous detailed chapter outlines.
+2024-04-20 01:03:33,123 - root - INFO - ==================================================
+2024-04-20 01:03:43,204 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: /mnt/cephfs/home/wangqianyue/beg
+2024-04-20 01:03:43,936 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device: cuda
+2024-04-20 01:23:37,509 - root - INFO - Exception when chat to model:'Response' object has no attribute 'request_id'
+2024-04-20 01:24:09,345 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: /mnt/cephfs/home/wangqianyue/beg
+2024-04-20 01:24:33,005 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device: cuda
+2024-04-20 01:24:34,042 - root - INFO - **************************************************
+2024-04-20 01:24:34,042 - root - INFO - content:As the sun set on the horizon, Diane and Mark sat on the couch, their eyes locked in a heart-to-heart conversation. Diane took a deep breath and began to explain her reasons for ending her affair with Jack. She spoke with sincerity, hoping that Mark would understand her motives and forgive her for her actions.
+Tears welled up in Mark's eyes as he listened to Diane's words. He could see the pain and regret in her eyes, and he knew that she truly regretted what she had done. After a long moment of silence, Mark finally spoke. "I forgive you, Diane," he said softly, taking her hand in his. "I know it's not easy to forget, but I'm willing to work with you to rebuild our marriage."
+Diane felt a weight lifted off her shoulders as she heard Mark's words. She knew that it wouldn't be easy, but she was willing to do whatever it took to make things right. She took concrete steps to make amends, apologizing to those she had hurt and making restitution where possible. She and Mark sought counseling, committing to communicate more openly and honestly with each other.
+As the weeks passed, Diane and Mark grew closer than ever before. They learned to trust and support each other in new ways, experiencing inner growth and changes together. They knew that the road ahead would be long and difficult, but they were determined to face it together.
+In the end, the story concluded with a sense of hope for the future. Diane and Mark embarked on a new chapter in their lives together, ready to face whatever challenges lay ahead. As they walked hand in hand into the sunset, they knew that they had each other, and that was all that mattered.
+2024-04-20 01:24:34,042 - root - INFO - **************************************************
+2024-04-20 01:24:34,042 - root - INFO - 16
