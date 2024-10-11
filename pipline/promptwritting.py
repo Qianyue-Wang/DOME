@@ -90,76 +90,48 @@ Your result:
     Next, let's think step by step, work hard and painstakingly, please follow the Workflow step-by-step as a Role with Skills, abide by Constraints, and complete Goals. This is very important to me, please help me, thank you! Let's get started:
     """
     ,
-    
-    'write_en_pro':'''
-    ## Role\n
-    Novel content generator\n
-    - Basic information: You are a content generator with rich imagination and literary accomplishment, able to create literary and interesting novel chapters based on the provided detailed outline and historical content of the novel.\n
-
-    ## Goals\n    
-    - Generate a single chapter of the novel based on the provided detailed outline and historical content of the novel.\n
-    - Ensure that the chapter you generate follows the given plot development and covers key events.\n
-    - The output should be literary and interesting, while maintaining consistency and style with the entire novel.\n
-
-    ## Constraints\n
-    1. Use placeholders to accept detailed outlines and historical content of the novel.\n
-    2. Ensure that the content of plot development and key events is not directly quoted from the detailed outline, but expressed in a unique way.\n
-    3. Maintain the literary and interesting output, while remaining consistent with the overall style and theme of the novel.\n
-
-    ## Skills\n
-    1. Creative writing: Able to create engaging novel chapters based on detailed outlines and historical content.\n
-    2. Literary and narrative skills: Use various literary techniques and narrative strategies in chapter creation to enhance the appeal of the story.\n
-    3. Detail handling: Enrich the details of the plot without changing the original plot points, enhancing the literary and interesting aspects of the chapter.\n
-
-    ## Workflow\n
-    1. Analyze the provided detailed outline and historical content of the novel to determine the direction of plot development and key events.\n
-    2. Create a chapter, ensuring that the plot development follows the detailed outline and uniquely covers key events.\n
-    3. Enhance the literary and interesting aspects of the chapter through literary techniques and narrative strategies, while maintaining consistency and style with the overall novel.\n
-
-    ## Input\n
-    History information of the novel:{history}\n
-    Plot:{plot}\n
-    Key events:{key_event}\n
-
-    # Initialization:\n
-    Next, Let's think step by step, work hard and painstakingly, please follow the Workflow step-by-step as a Role with Skills, abide by Constraints, and complete Goals. This is very important to me, please help me, thank you! Let's get started:
-'''
-,
+    'chapter_outline':"""
+    You are an expert in novel creation.
+    Novel creation is a step-by-step process. And one volume contain two chapters.
+    In order to complete the chapter outline of the current volume, \n
+    we need to comprehensively consider: 
+    the overall summary of the novel, 
+    the current volume outline, 
+    the full content of the previous chapters,
+    and the history of the full story.\n
+    ## Hint
+    1. The chapter outline should be concise and clear, only describe how the story unfolds rather than the complete story content.\n
+    2. You have to generate two chapter outlines at once, which must have a developmental relationship and not be duplicated, giving full consideration to the given volume outline.\n
+    ## Input
+    the current volume outline:{volume_outline},\n
+    the full content of the previous chapters:{last_chapter},\n
+    and the history of the full story:{history}\n
+    ## Output Format \n
+    Please follow the output format strictly to ensure the consistency of the generated detailed chapter outline.\n
+    Nothing but only the chapter outline should be included in the output.\n
+    There are two chapter outlines in total. Following the format below:\n
+    - Chapter Outline 1: \n
+    - Chapter Outline 2: \n
+    Your result:
+    """
+    ,
     'write_en':'''
-    ## Role\n
-    Novel content generator\n
-    - Basic information: You are a content generator with rich imagination and literary accomplishment, able to create literary and interesting novel chapters based on the provided detailed outline and historical content of the novel.\n
-
-    ## Goals\n    
-    - Generate a single chapter of the novel based on the provided detailed outline and historical content of the novel.\n
-    - Ensure that the chapter you generate follows the given plot development and covers key events in the given outline.\n
-    - The output should be literary and interesting, while maintaining consistency and style with the entire novel.\n
-
-    ## Constraints\n
-    1. Use placeholders to accept detailed outlines and historical content of the novel.\n
-    2. Ensure that the content of plot development and key events in the given outline is not directly quoted from the detailed outline, but expressed in a unique way.\n
-    3. Maintain the literary and interesting output, while remaining consistent with the overall style and theme of the novel.\n
-
-    ## Skills\n
-    1. Creative writing: Able to create engaging novel chapters based on detailed outlines and historical content.\n
-    2. Literary and narrative skills: Use various literary techniques and narrative strategies in chapter creation to enhance the appeal of the story.\n
-    3. Detail handling: Enrich the details of the plot without changing the original plot points, enhancing the literary and interesting aspects of the chapter.\n
-
-    ## Workflow\n
-    1. Analyze the provided detailed outline and historical content of the novel to determine the direction of plot development and key events.\n
-    2. Create a chapter, ensuring that the plot development follows the detailed outline and uniquely covers key events.\n
-    3. Enhance the literary and interesting aspects of the chapter through literary techniques and narrative strategies, while maintaining consistency and style with the overall novel.\n
-
+    Your task is to write a story based on the given inputed information\n
+    Your story should have more details, including language description, psychological description, and environmental description.\n
+    The content of the story should be consistent with the outline and logically coherent with the historical content like the last chapter content and the relevant history content.\n
     ## Input\n
-    History information of the novel:{history}\n
-    Outline:{outline}\n
-
-    ##Output Format\n
-    Your result should contain only the generated story content, not any additional information.\n
-    Please strictly follow the output constraints above.\n
-
-    # Initialization:\n
-    Next, Let's think step by step, work hard and painstakingly, please follow the Workflow step-by-step as a Role with Skills, abide by Constraints, and complete Goals. This is very important to me, please help me, thank you! Let's get started:
-'''
+    the current volume outline:{volume_outline},\n
+    the current chapter outline:{chapter_outline},\n
+    the full content of the previous chapters:{last_chapter},\n
+    and the history of the full story:{history}\n\n
+    
+    ## Output Format \n
+    Nothing but only the generated content ,which is composed by a series of sentences, should be included in the output.\n
+    Strictly follow the format below:\n
+    - Story: \n
+    Your generated content:
+    '''
+    
+    
 
 }
